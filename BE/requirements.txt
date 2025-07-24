@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-restful
+flask-socketio
+python-socketio
+deepface
+opencv-python
+pillow
+python-dotenv
