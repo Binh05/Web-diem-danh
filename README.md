@@ -26,6 +26,7 @@ is comming
 - [React-router-dom](https://reactrouter.com/)
 - [Tailwind css](https://tailwindcss.com/)
 - [postcss/autoprefixer](https://postcss.org/)
+- [axios](https://axios-http.com/docs/intro)
 - [clsx](https://www.npmjs.com/package/clsx)
 
 ### Backend
