@@ -31,8 +31,19 @@ is comming
 
 ### Backend
 
-iscoming
+#### Các package sử dụng
 
+```
+flask
+flask-cors
+flask-restful
+flask-socketio
+python-socketio
+deepface
+opencv-python
+pillow
+python-dotenv
+```
 
 ## Cách clone dự án
 
@@ -56,3 +67,25 @@ npm i
 npm run dev
 ```
 - Truy cập link localhost để xem frontend dự án.
+
+#### Chạy Backend
+
+- Tạo môi trường ảo nếu dùng venv:
+```
+python -m venv venv
+```
+
+- Kích hoạt môi trường ảo
+```
+venv\Scripts\activate
+```
+
+- Cài các thư viện cần thiết
+```
+pip install -r requirements.txt
+```
+
+- Sau đó có thể tạo requirements.txt:
+```
+pip freeze > requirements.txt
+```
